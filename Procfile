@@ -1,1 +1,1 @@
-web: gunicorn server:flask
+web: gunicorn backend:flask
